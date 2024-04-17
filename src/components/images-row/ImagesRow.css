@@ -1,0 +1,22 @@
+.imagesRow {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+img {
+  max-width: 100%;
+  max-height: 200px;
+}
+
+.imageCard {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 6px;
+  background-color: #ade8f4;
+}
+
+.imageLabel{
+  width: 100%;
+  text-align: center;
+  font-size: larger;
+}
